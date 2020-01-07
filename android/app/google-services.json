@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664714725859",
+    "firebase_url": "https://omar-af725.firebaseio.com",
+    "project_id": "omar-af725",
+    "storage_bucket": "omar-af725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664714725859:android:d63cd4fc4b80258436b8d6",
+        "android_client_info": {
+          "package_name": "com.example.omar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664714725859-4rcsctr5aokp590pdcepj9haratqj6np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omar",
+            "certificate_hash": "1aa242154adc8eecd0f6fe1c062944b1e03c9002"
+          }
+        },
+        {
+          "client_id": "664714725859-6ea3est7p5c2r9t98e7nfqdpshanhgp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwsYYrCkLAVZNFfPkkzom0uJY-felJF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664714725859-6ea3est7p5c2r9t98e7nfqdpshanhgp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
